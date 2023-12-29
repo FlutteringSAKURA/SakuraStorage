@@ -127,7 +127,7 @@
 
   [관련 참고 영상] 
   
-  Explanation And Play Video :  : https://youtu.be/rwJpIXAHn9c?si=seUGwx5fR93ecNlR
+  Explanation And Play Video : https://youtu.be/rwJpIXAHn9c?si=seUGwx5fR93ecNlR
 #
 #
 📌다섯번째
@@ -152,13 +152,13 @@
 
   [관련 참고 영상] 
   
-  Explanation And Play Video :  : https://youtu.be/il1BKmARSLY?si=5SOHmFBu7S3K2Uvx
+  Explanation And Play Video : https://youtu.be/il1BKmARSLY?si=5SOHmFBu7S3K2Uvx
 
   Play Video : https://youtu.be/kU8N1FbtUXQ?si=DItK5xZZl94KdAle
   #
   #
 
-# #개인프로젝트 목록
+# # 개인프로젝트 목록
 #
 📌첫번째
 
@@ -239,7 +239,7 @@
 
   [프로젝트 명칭]
   
-    4. Kraken V.R. -KURONA IN GANG NAM - Demo
+    4. Kraken V.R. KURONA IN GANG NAM - Demo
 
   [프로젝트 설명]
    
@@ -275,7 +275,7 @@
 
   [관련 참고 영상] 
   
-  Play Video : Play Video : https://youtu.be/Nc99_IydQo4?si=LCe4P1RzQaii4Rf6
+  Play Video : https://youtu.be/Nc99_IydQo4?si=LCe4P1RzQaii4Rf6
 #
 #
 📌다섯번째
@@ -669,6 +669,31 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
       <주요 내용>
       
          -
+
+  [관련 참고 영상] 
+  
+  Explanation Video : -
+
+  Play Video : -
+  #
+  #
+  📌열다섯번째
+
+  [프로젝트 명칭]
+  
+    15. Creature Photon Network - URP_SAMPLE_PROJECT
+
+  [프로젝트 설명]
+   
+      <목적>  
+      
+         Photon Network Server를 활용한 고 퀄리티 그래픽 품질을 가진 멀티 플레이 FPS 콘텐츠 구현
+         
+      <주요 내용>
+      
+         1. Photon Network Server 통신
+         2. 멀티 플레이 FPS 구현
+         3. URP 활용한 High Quality Graphic 구현
 
   [관련 참고 영상] 
   
