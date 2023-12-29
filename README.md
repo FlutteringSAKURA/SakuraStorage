@@ -40,8 +40,6 @@
   [관련 참고 영상] 
   
   Explanation And Play Video :  https://youtu.be/xRm6wMEh4zs?si=j4sLAbbX22V8OqIU
-        
-  Explanation Video : https://youtu.be/deOMXLDBBR8
 #
 #
 📌두번째
