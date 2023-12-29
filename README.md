@@ -716,7 +716,8 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
          
       <주요 내용>
       
-         1. 유니티 쉐이터 01
+         1. 유니티 쉐이더 01
+         
            (1) 기초적인 서피스 쉐이더 제작 
               - 메터리얼과 쉐이더 적용 
               - 쉐이더 Properties 제작 
@@ -736,7 +737,8 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
            
            (6) Lambert와 Blinn Phong Lighting 제작 및 구현
          
-         2. 유니티 쉐이터 02
+         2. 유니티 쉐이더 02
+         
            (1) 디지털 라이트 
               - 벡터, 노멀 벡터, 벡터 연산을 이용한 디지털 조명 연산 
               
@@ -756,6 +758,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
               - Diffuse Wraping
            
          3. 유니티 쉐이더 03
+         
            (1) CubeMap Reflection 
            
            (2) Alpha 
@@ -775,6 +778,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
               - Using Vertex color & shaking leaf
          
          4. 유니티 쉐이더 04
+         
            (1) 맷캡 (MatCap) 
              
            (2) 굴절 (Refraction) 
@@ -786,6 +790,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
            (5) 파도+굴절(Wave Water + Refraction)
          
          5. 유니티 쉐이터 05
+         
             - 트라이 플래너 (Triplanar)
 
   [관련 참고 영상] 
