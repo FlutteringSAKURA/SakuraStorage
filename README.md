@@ -4,6 +4,14 @@
 
 관련 기술한 모든 사항에 대해서는 사실과 다름이 없음을 서약합니다.
 #
+# # 사용언어 및 개발환경 (공통)
+    - C# 
+    - 유니티 3D엔진
+    - 2016 MacBook Pro Touch bar (13-inch, Four Thunderbolt 3 Ports) 
+    - 프로세서 2.9GHz Intel Core i5
+    - 메모리 8GB 2133 MHZ LPDDR3
+    - 시동 디스크 Macintosh HD
+    - 그래픽 Intel Iris Graphics 550 1536 MB
 
 # # 팀프로젝트 목록
 
@@ -12,7 +20,7 @@
 3. Cyber Stadium – Screen Base Ball Project
 4. Legendary Academy
 5. Legendary City – Battle For Seoul
-
+#
 # # 팀프로젝트 설명 및 참고 영상
  📌 첫번째
  
