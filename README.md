@@ -12,7 +12,112 @@
     - 메모리 8GB 2133 MHZ LPDDR3
     - 시동 디스크 Macintosh HD
     - 그래픽 Intel Iris Graphics 550 1536 MB
+#
+# # 대표작
+📌 개인프로젝트
 
+ [프로젝트 명칭]
+
+     The Bramble - Kongji And Fatji
+
+[프로젝트 설명]
+
+    <목적>  
+      
+         1. Bramble – The Mountain King을 모작하여 최대한 동일한 퀄리티를 구현하되, 
+                      게임의 전개에 있어서는 최대한 차별적인 개성이 드러날 수 있도록 나만의 아이디어를 게임상 구현하는 것을 목표.
+         2. Cinemachine 카메라 연출을 중점적으로 포커싱한 프로젝트
+         3. 포트폴리오로 활용
+
+         
+    <주요 내용>
+      
+         1. Post Processing 및 Cinemachine 기술을 활용한 시각적 아름다움 표현.
+
+         2. 다양한 Cameara 연출 구현
+         
+         3. 게임상 다양한 사물 인터렉션 구현 
+         
+         4. 게임 사용자가 플레이하는 캐릭터의 자유도를 최대한 살리면서 동시에 게임 진행에서 벗어나지 않도록 
+            오픈월드와 제한된 월드를 균형있게 레벨디자인 하였음. 
+            
+         5. 특정 조건이 만족되어야 활성화 되는 순차적 퀘스트 진행. 
+         
+         6. 호러 어드벤처 장르의 퍼즐식 게임진행 구현. 
+         
+         7. 스토리라인에 따른 서사석 게임 진행 구현.
+         
+         8. ObjectableScript방식의 Audio Sound System 설계 및 구현.
+         
+         9. 본 프로젝트의 모든 리소스는 다양한 방법을 통해 자체 제작으로 해결.
+
+  
+  [관련 참고 영상] 
+  
+  Explanation Video : https://youtu.be/hr99okLv890
+  
+  Play Video : https://youtu.be/1QFywuPot4U 
+#  
+  [관련 참고 기획서]
+  
+  https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
+
+#
+
+📌 상용화 프로젝트(서울 동대문, 부산 서면)
+
+ [프로젝트 명칭]
+
+     Infection - Z
+
+[프로젝트 설명]
+
+    <목적>  
+      
+         기존의 VR관련 업체 및 테마파크에서 워킹어트렉션 콘텐츠를 위해 볼 수 있었던 고비용의 적외선 카메라나 위치추적방식의 장비 대신, 
+         윈도우 MR헤드셋인 워킹삼성오디세이(VR장비-HMD)를 사용함으로써 상대적으로 저비용이지만 성능과 기능 그리고 유지, 보수 측면에서는 
+         오히려 탁월한 VR워킹어트렉션 게임컨텐츠를 카메라 Post-Processing 기술 등을 적용해 퀄리티 높게 개발하여 화려한 볼거리 요소를 구현함은 물론             Vibration Vest(진동조끼)와 Vibration Gun(진동 총)을 콘텐츠와 연동하여 더욱 현실적인 FPS기반의 좀비호러 슈팅게임을 제작하여 
+         전국의 VR업체 및 매장에 콘텐츠 납품
+         
+    <주요 내용>
+      
+         개발 및 총괄책임
+
+  
+  [관련 참고 영상] 
+  
+부산 서면 출시 현장 영상 
+  
+  https://youtu.be/iu0lsLIq3UE 
+서울 동대문 테마파크 개장 전 막바지 안정화 및 최적화 작업 중 촬영한 현장 영상01 
+
+https://youtu.be/LsY7ki96dz8
+
+서울 동대문 테마파크 개장 전 막바지 안정화 및 최적화 작업 중 촬영한 현장 영상02
+
+https://youtu.be/CwIfIlqd8Q4 
+
+서울 동대문 테마파크 개장 전 막바지 안정화 및 최적화 작업 중 촬영한 현장 영상03
+
+https://youtu.be/G4_owWyZ8s8 
+
+서울 동대문 테마파크 개장 전 막바지 안정화 및 최적화 작업 중 촬영한 현장 영상04
+
+https://youtu.be/kUHBDhV79sM 
+
+서울 동대문 테마파크 개장 전 막바지 안정화 및 최적화 작업 중 촬영한 현장 영상05
+
+https://youtu.be/_nfg9ZYRnIE 
+
+#  
+  [관련 참고 기획서]
+  
+  [박상은_개발기획서_2023_ver.1.01.pdf]
+  
+  https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
+
+
+#
 # # 팀프로젝트 목록
 
 1. Clock Of The Legendary – The Beginnings
