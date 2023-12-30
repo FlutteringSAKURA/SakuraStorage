@@ -88,7 +88,8 @@
   
 부산 서면 출시 현장 영상 
   
-  https://youtu.be/iu0lsLIq3UE 
+https://youtu.be/iu0lsLIq3UE 
+
 서울 동대문 테마파크 개장 전 막바지 안정화 및 최적화 작업 중 촬영한 현장 영상01 
 
 https://youtu.be/LsY7ki96dz8
