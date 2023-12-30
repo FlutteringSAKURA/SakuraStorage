@@ -762,9 +762,9 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
 
   [관련 참고 영상] 
   
-  Explanation Video : -
+  Explanation Video : 업데이트 예정 (준비중)
 
-  Play Video : -
+  Play Video : 업데이트 예정 (준비중)
 #
 #
 📌열네번째
@@ -777,17 +777,17 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
    
       <목적>  
       
-         -
+         - 업데이트 예정 (준비중)
          
       <주요 내용>
       
-         -
+         - 업데이트 예정 (준비중)
 
   [관련 참고 영상] 
   
-  Explanation Video : -
+  Explanation Video : 업데이트 예정 (준비중)
 
-  Play Video : -
+  Play Video : 업데이트 예정 (준비중)
   #
   #
   📌열다섯번째
@@ -810,9 +810,9 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
 
   [관련 참고 영상] 
   
-  Explanation Video : -
+  Explanation Video : 업데이트 예정 (준비중)
 
-  Play Video : -
+  Play Video : - 업데이트 예정 (준비중)
   #
   # # 쉐이더 관련 - Additional Personal Test Sample Project
  📌
@@ -922,6 +922,6 @@ Related Video 5 : https://youtu.be/Jtp0Qhxs35A?si=VUXbHUNoGwCR7K9P
 #
 # # 맺음말
 
-
+업데이트 예정 (준비중)
 
 
