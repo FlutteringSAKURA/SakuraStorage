@@ -52,13 +52,13 @@
          9. 본 프로젝트의 모든 리소스는 다양한 방법을 통해 자체 제작으로 해결.
 
   
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : https://youtu.be/hr99okLv890
   
   Play Video : https://youtu.be/1QFywuPot4U 
 #  
-  [관련 참고 기획서]
+  🏷 [관련 참고 기획서]
   
   https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
 
@@ -70,7 +70,7 @@
 
      Infection - Z
 
-[프로젝트 설명]
+ [프로젝트 설명]
 
     <목적>  
       
@@ -84,7 +84,7 @@
          개발 및 총괄책임
 
   
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
 부산 서면 출시 현장 영상 
   
@@ -111,7 +111,7 @@ https://youtu.be/kUHBDhV79sM
 https://youtu.be/_nfg9ZYRnIE 
 
 #  
-  [관련 참고 기획서]
+  🏷 [관련 참고 기획서]
   
   [박상은_개발기획서_2023_ver.1.01.pdf]
   
@@ -151,7 +151,7 @@ https://youtu.be/_nfg9ZYRnIE
            - Object Pool system 
            - Damage dealing (Character - Monster)
   
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video :  https://youtu.be/xRm6wMEh4zs?si=j4sLAbbX22V8OqIU
 #
@@ -178,7 +178,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          4. Wave system
   
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video : https://youtu.be/1PHRE-ONW2Y?si=yL7qv27_Fa5Ey9tg
   
@@ -212,7 +212,7 @@ https://youtu.be/_nfg9ZYRnIE
             
          6. 투수 Animation과 Pitcher Bot의 Sync
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video :  https://youtu.be/f9kFDlUM7sA?si=5WLJ4RyXw7KtY-Wm
   
@@ -239,7 +239,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          3.Dialogue System example
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video : https://youtu.be/rwJpIXAHn9c?si=seUGwx5fR93ecNlR
 #
@@ -264,7 +264,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          3. Main World View and Story Planning
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video : https://youtu.be/il1BKmARSLY?si=5SOHmFBu7S3K2Uvx
 
@@ -293,7 +293,7 @@ https://youtu.be/_nfg9ZYRnIE
          2. 등장 공룡들 간의 '전체 먹이사슬 생태계 통합' 구현
 
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video : https://youtu.be/FbWP0bP7-Jw?si=BLnRc5y5R_0ype8d 
   #
@@ -315,7 +315,7 @@ https://youtu.be/_nfg9ZYRnIE
          포톤서버를 활용한 IO게임 구현
           - 슈팅장르의 멀티 게임 플레이 기본 구현
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video : https://youtu.be/7gH7F1rGiB4?si=EltBcfJVIKheDE32
 #
@@ -342,7 +342,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          4. ToolTip은 아이템의 정보를 표시하여 전달해주는 역할
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation And Play Video : https://youtu.be/piAZ_ov19-g?si=6DAi-TC6XNnPnMVP
 
@@ -387,7 +387,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          12. Enemy Setting - 적 유닛 제작
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Play Video : https://youtu.be/Nc99_IydQo4?si=LCe4P1RzQaii4Rf6
 #
@@ -410,7 +410,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          [Type.2] Sphere Material
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
  
   Play Video : https://youtu.be/DYuhzGKyY1Y?si=DjbAWecHEciMR18B
 #
@@ -433,7 +433,7 @@ https://youtu.be/_nfg9ZYRnIE
          
          2. A.R. Marker 인식으로 등장한 캐릭터들간의 기본 전투 구현
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
 
   Play Video : https://youtu.be/d4Zvk1hLCQA?si=4hZXsewzaBE67ROS
 #
@@ -484,7 +484,7 @@ https://youtu.be/_nfg9ZYRnIE
           
           12 Integration
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
 Explanation Video : https://youtu.be/dK9tcYVpUbM?si=t2UBGKqI_G6j0OFY
 
@@ -552,7 +552,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
          
          12. Barrels Explosion Example
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : https://youtu.be/IKAzD850hI8?si=1k0Ti-SPLeiYt1kS
 
@@ -605,7 +605,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
          
          7. Lading UI example
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : : https://youtu.be/azE1duT5I8k?si=Du3-57q_-ucm5HJN
 
@@ -633,7 +633,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
             
          2. 이전 AR Card Game 콘텐츠의 Quality 상향
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Play Video : https://youtu.be/FlxXcAT82UY?si=o_ACCxxhQWXU22d_
 #
@@ -691,7 +691,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
            
            17. Score, Kill Count Data : Save OR Reset 
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : https://youtu.be/q-XWG6lPDBM
 
@@ -736,7 +736,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
           
           11. 피격 Effect 구현
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : https://youtu.be/deOMXLDBBR8
 
@@ -784,7 +784,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
       
          - 업데이트 예정 (준비중)
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : 업데이트 예정 (준비중)
 
@@ -809,7 +809,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
          2. 멀티 플레이 FPS 구현
          3. URP 활용한 High Quality Graphic 구현
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
   Explanation Video : 업데이트 예정 (준비중)
 
@@ -907,7 +907,7 @@ Integration Play Only Video : https://youtu.be/5Ogqjuv43jQ?si=MflrLxJm0LqdOm07
          
             - 트라이 플래너 (Triplanar)
 
-  [관련 참고 영상] 
+  🏷 [관련 참고 영상] 
   
 Related Video 1 : https://youtu.be/1H6Xc3xxJiA?si=aADCuXcYWx127N5Y 
 
