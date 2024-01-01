@@ -121,7 +121,35 @@ https://youtu.be/_nfg9ZYRnIE
   
   https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
 
+#  
+  🏷 [관련 뉴스 보도 기사 링크]
+  
+한경 IT.과학
 
+https://www.hankyung.com/it/article/201810247613v
+
+헤럴드경제
+
+http://news.heraldcorp.com/view.php?ud=20181224000566
+
+뉴스웍스
+
+http://www.newsworks.co.kr/news/articleView.html?idxno=307202
+
+게임톡
+
+http://gametoc.hankyung.com/news/articleView.html?idxno=49548
+
+베타뉴스
+
+http://www.betanews.net/article/928727
+
+디스이즈게임
+
+https://www.thisisgame.com/webzine/game/nboard/225/?n=87796
+
+
+#
 #
 # # 팀프로젝트 목록
 
