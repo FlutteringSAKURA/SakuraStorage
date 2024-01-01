@@ -51,12 +51,13 @@
          
          9. 본 프로젝트의 모든 리소스는 다양한 방법을 통해 자체 제작으로 해결.
 
-  
+#
   🏷 [관련 참고 영상] 
   
   Explanation Video : https://youtu.be/hr99okLv890
   
   Play Video : https://youtu.be/1QFywuPot4U 
+  
 #  
   🏷 [관련 참고 기획서]
   
@@ -64,6 +65,7 @@
   
   https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
 
+#
 #
 
 📌 상용화 프로젝트(서울 동대문, 부산 서면)
@@ -85,7 +87,7 @@
       
          개발 및 총괄책임
 
-  
+#  
   🏷 [관련 참고 영상] 
   
 부산 서면 출시 현장 영상 
