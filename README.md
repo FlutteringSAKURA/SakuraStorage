@@ -60,6 +60,8 @@
 #  
   🏷 [관련 참고 기획서]
   
+  [박상은_개발기획서_2023_ver.1.01.pdf]
+  
   https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
 
 #
@@ -111,9 +113,9 @@ https://youtu.be/kUHBDhV79sM
 https://youtu.be/_nfg9ZYRnIE 
 
 #  
-  🏷 [관련 참고 기획서]
+  🏷 [관련 참고 매뉴얼]
   
-  [박상은_개발기획서_2023_ver.1.01.pdf]
+  [MANUAL for Infection-Z(Official Version).pdf]
   
   https://drive.google.com/drive/folders/1-lMZV-XFZvSJ1qSZTKEpkMOku-aE8cP-?usp=drive_link
 
