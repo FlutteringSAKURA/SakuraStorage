@@ -18,7 +18,7 @@
 
  [프로젝트 명칭]
 
-     The Bramble - Kongji And Fatji
+     The Bramble - Kongjwi And Fatjwi
 
 [프로젝트 설명]
 
