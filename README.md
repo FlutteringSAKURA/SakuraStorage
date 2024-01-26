@@ -22,6 +22,9 @@
 
 [프로젝트 설명]
 
+    <장르>
+    3D Adventure Horror
+    
     <목적>  
       
          1. Bramble – The Mountain King을 모작하여 최대한 동일한 퀄리티를 구현하되, 
