@@ -23,7 +23,7 @@
 [프로젝트 설명]
 
     <장르>
-    3D Adventure Horror
+         3D Adventure Horror
     
     <목적>  
       
@@ -80,7 +80,7 @@
  [프로젝트 설명]
 
     <장르>
-    Location Based VR Walking Attraction - FPS Shooting Game
+         Location Based VR Walking Attraction - FPS Shooting Game
     
     <목적>  
       
