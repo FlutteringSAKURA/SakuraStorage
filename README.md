@@ -124,10 +124,6 @@ https://youtu.be/_nfg9ZYRnIE
 #  
   🏷 [관련 뉴스 보도 기사 링크]
   
-한경 IT.과학
-
-https://www.hankyung.com/it/article/201810247613v
-
 헤럴드경제
 
 http://news.heraldcorp.com/view.php?ud=20181224000566
@@ -136,9 +132,6 @@ http://news.heraldcorp.com/view.php?ud=20181224000566
 
 http://www.newsworks.co.kr/news/articleView.html?idxno=307202
 
-게임톡
-
-http://gametoc.hankyung.com/news/articleView.html?idxno=49548
 
 베타뉴스
 
