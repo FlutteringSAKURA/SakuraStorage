@@ -96,7 +96,7 @@
            - 리소스 제작 및 커스터마이징
            - 라이트 맵핑 및 쉐이더
            - 카메라 포스트 프로세싱 설계 및 최적화
-        4. 외부 디바이스 b-Haptics 진동 조끼 콘텐츠 연동 및 싱크 작업 
+        4. 외부 디바이스 b-Haptics 진동 조끼, pp Gun (VR 진동 총) 콘텐츠 연동 및 싱크 작업 
         5. 작업 스케줄링 및 기타 콘텐츠 제작 총괄 PM 업무
         
         
@@ -105,13 +105,13 @@
         
         1.기존의 VR관련 업체 및 테마파크에서 워킹어트렉션 콘텐츠를 위해 볼 수 있었던 고비용의 적외선 카메라나 위치추적방식의 장비 대신 윈도우 MR 헤드셋인 삼성 오디세이(VR장비-HMD)를 사용.
         2.상대적으로 저비용이지만 성능과 기능 그리고 유지, 보수 측면에서는 오히려 탁월한 VR 워킹어트렉션 게임컨텐츠를 카메라 Post-Processing 기술 등을 적용해 퀄리티 높게 개발.
-        3.화려한 볼거리 요소를 구현함은 물론 Vibration Vest(진동조끼)와 Vibration Gun(진동 총)을 콘텐츠와 연동하여 더욱 현실적인 FPS기반의 좀비호러 슈팅게임을 제작해 전국의 VR업체 및 매장에 콘텐츠 납품
+        3.화려한 볼거리 요소를 구현함은 물론 Vibration Vest(진동조끼)와 Vibration Gun(= pp Gun, 진동 총)을 콘텐츠와 연동하여 더욱 현실적인 FPS기반의 좀비호러 슈팅게임을 제작해 전국의 VR업체 및 매장에 콘텐츠 납품
         
         
         
         ≪ 사용 기술 및 언어, 툴 , 디바이스 ≫
         
-        C# / 유니티 3D엔진 / Inverse Kinematics (IK) / Premiere Pro CC 2017 / PhotoShop CC 2017 / Samsung Odyssey HMD / Motion Tracking / MR / VR / b-Haptics
+        C# / 유니티 3D엔진 / Inverse Kinematics (IK) / Premiere Pro CC 2017 / PhotoShop CC 2017 / Samsung Odyssey HMD / Motion Tracking / MR / VR / b-Haptics / pp Gun (VR)
         
         
         
