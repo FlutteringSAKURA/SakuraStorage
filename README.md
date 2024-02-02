@@ -88,18 +88,18 @@
     <주요 내용>
       
          ≪담당업무≫
-        Location Based VR Walking Attraction (이하 LBVR : 공간기반 가상현실 워킹 어트랙션) Content 개발 및 총괄책임, 테크니컬 아트 총괄
+        Location Based VR Walking Attraction (이하 LBVR : 공간기반 가상현실 워킹 어트랙션) Content 콘텐츠 개발 및 기획, 테크니컬 아트 업무
         
         1. Unity 3D Client Develop 
         2. 콘텐츠 기획 총괄
-        3. Technical Art Director (테크니컬 아트 총괄) 
+        3. Technical Art Director (테크니컬 아트 담당) 
            - 콘텐츠 레벨 디자인
            - 월드 맵 설계 및 디자인 
            - 리소스 제작 및 커스터마이징
            - 라이트 맵핑 및 쉐이더
            - 카메라 포스트 프로세싱 설계 및 최적화
         4. 외부 디바이스 b-Haptics 진동 조끼, pp Gun (VR 진동 총) 콘텐츠 연동 및 싱크 작업 
-        5. 작업 스케줄링 및 기타 콘텐츠 제작 총괄 PM 업무
+        5. 작업 스케줄링 및 기타 콘텐츠 제작, PM 업무
         
         
         
@@ -119,7 +119,7 @@
         
         ≪ 프로젝트 성과 ≫
         
-        당시 MR기술이 적용된 Samsung Odyssey 기반의 LBVR Content를 세계최초로 상용화하는데 성공.
+        당시 MR기술이 적용된 Samsung Odyssey 기반의 LBVR Content로서는 세계최초로 상용화하는데 성공.
         
         - (서울 동대문 납품 - 정식 버전) / (부산 서면 납품 - 베타 버전)
         - 서울 동대문 일루션월드 VR 테마파크 / 부산 서면 다함께 야구왕 & VR
@@ -232,7 +232,7 @@ https://www.thisisgame.com/webzine/game/nboard/225/?n=87796
       
          디펜스 장르의 게임 구현 및 인디 창업의 서브 IP로 활용
          
-      <주요 내용>
+      <담당 업무 주요 내용>
       
          1. World Map Design  
          
@@ -261,7 +261,7 @@ https://www.thisisgame.com/webzine/game/nboard/225/?n=87796
       
          현실적인 물리 엔진과 수학적 계산을 통한 현실적인 야구 시뮬레이션 및 시네머신을 활용한 화려한 볼거리 요소를 구현하여 전국의 스크린 야구장에 납품
          
-      <주요 내용>
+      <담당 업무 주요 내용>
       
          1. Making Alpha version Pitcher Bot / Hitter Bot 
          
@@ -295,7 +295,7 @@ https://www.thisisgame.com/webzine/game/nboard/225/?n=87796
       
          인디 창업의 서브 IP로 활용
               
-      <주요 내용>
+      <담당 업무 주요 내용>
       
          1.World Map Level Design 
          
@@ -320,7 +320,7 @@ https://www.thisisgame.com/webzine/game/nboard/225/?n=87796
       
          방치형과 Beat’em up Action 장르의 게임을 혼합하여 일상에서 사람들이 가볍게 플레이할 수 있도록 구현 및 인디 창업의 메인 IP로 활용
          
-      <주요 내용>
+      <담당 업무 주요 내용>
       
          1. World Map Design 
          
